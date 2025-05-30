@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Portfolio<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with SEO Optimization<br>🌱 I’m currently learning SEO Optimization<br>💬 Ask me about Full Stack Development
+🔭 I am Full Stack Developer<br>👯 Up for freelance work<br>🤝 I’m looking to collaborate on Full Stack Projects<br>
 
 
 ## 🌐 Socials:
